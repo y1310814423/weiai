@@ -1,0 +1,96 @@
+{
+  "data": {
+    "message": "登录成功",
+    "information": [
+      {
+        "price": "¥1166",
+        "introduction": "Cube 方糖触控音箱",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥119",
+        "introduction": "U2SIM 双享号 Pro",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥548",
+        "introduction": "Super NES Classic Edition 任天堂复古主机",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥3254",
+        "introduction": "reMarkable Paper Tablet 电纸平板",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥2500",
+        "introduction": "HomePod 智能音箱",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥35000",
+        "introduction": "iMac Pro 为真正 Pro 用户而生的台式电脑",
+        "image": "{require('./img/da1.jpg')}"
+      },{
+        "price": "¥5188",
+        "introduction": "iPad Pro 10.5 英寸",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥2040",
+        "introduction": "Cam IQ",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥612",
+        "introduction": "Fuze Card 多卡合一",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥899",
+        "introduction": "MX MASTER 2S 蓝牙鼠标",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥1020",
+        "introduction": "the Light Phone 极简手机",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥815",
+        "introduction": "Arc Hub USB-C 七合一转接坞站",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥184",
+        "introduction": "Norlan Glass 威士忌酒杯",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥469",
+        "introduction": "Facemaker Original 艺术积木",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥95",
+        "introduction": "Tattly 趣味插画纹身贴",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥199",
+        "introduction": "Baby Nulle 玩偶",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥150",
+        "introduction": "Doomor Cup 大耳朵杯",
+        "image": "{require('./img/da1.jpg')}"
+      },
+      {
+        "price": "¥66",
+        "introduction": "石黑亚矢子「てんまると家族絵日記」",
+        "image": "{require('./img/da1.jpg')}"
+      }
+    ]
+  }
+}
